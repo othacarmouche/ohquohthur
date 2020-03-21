@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chairaicie.aabed.me/sitemap.xml
